@@ -1,0 +1,4 @@
+TO ADD to the page:
+( 1 ) a back end. Storage in Postgresql and caching in Redis.
+( 2 ) 5 pages aside index.html
+( 3 ) contact me display.
